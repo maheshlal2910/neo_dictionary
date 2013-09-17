@@ -1,0 +1,4 @@
+nose
+mock
+git+https://github.com/maheshlal2910/bulbs_garnish.git
+Bulbs
